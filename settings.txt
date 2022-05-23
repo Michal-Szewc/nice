@@ -1,0 +1,2 @@
+1500 800 10 0.8 10 500 1 1.0
+window width/window height/grid size/snake speed/growth/number of apples/fps cap(1 or 0)/speed multiplier
